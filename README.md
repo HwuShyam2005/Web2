@@ -1,2 +1,2 @@
 # Web2
-Website 2
+Simple Website 2
